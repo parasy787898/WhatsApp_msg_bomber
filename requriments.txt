@@ -1,0 +1,7 @@
+selenium 
+(pip install selenium)
+
+
+Particular browser webdriver file.
+chrome(https://chromedriver.chromium.org/downloads)
+Firefox(https://www.selenium.dev/selenium/docs/api/javascript/module/selenium-webdriver/firefox.html)
